@@ -1,0 +1,9 @@
+blue,S,2,0
+red,S,2,1
+blue,S,2,2
+red,S,1,2
+blue,S,1,1
+red,S,1,0
+blue,S,0,0
+red,O,0,1
+blue,S,0,2
